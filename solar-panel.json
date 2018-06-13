@@ -1,0 +1,52 @@
+{
+    "Data" : {
+    "DAY_ENERGY" : {
+    "Value" : 8000,
+    "Unit" : "Wh"
+    },
+    "FAC" : {
+    "Value" : 50,
+    "Unit" : "Hz"
+    },
+    "IAC" : {
+    "Value" : 14.54,
+    "Unit" : "A"
+    },
+    "IDC" : {
+    "Value" : 8.2,
+    "Unit" : "A"
+    },
+    "PAC" : {
+    "Value" : 3373,
+    "Unit" : "W"
+    },
+    "SAC" : {
+    "Value" : 3413,
+    "Unit" : "VA"
+    },
+    "TOTAL_ENERGY" : {
+        "Value" : 45000,
+        "Unit" : "Wh"
+        },
+        "UAC" : {
+        "Value" : 232,
+        "Unit" : "V"
+        },
+        "UDC" : {
+        "Value" : 426,
+        "Unit" : "V"
+        },
+        "YEAR_ENERGY" : {
+        "Value" : 44000,
+        "Unit" : "Wh"
+        },
+        "DeviceStatus" : {
+        "DeviceState" : 7,
+        "MgmtTimerRemainingTime" : -1,
+        "ErrorCode" : 0,
+        "LEDColor" : 2,
+        "LEDState" : 0,
+        "StateToReset" : false
+        }
+        }
+        }
